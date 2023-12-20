@@ -1,2 +1,2 @@
 # Easy Shopping Via Mobile
-Segundo projeto utilizando CSS com auxílio da ferramenta FIGMA.
+Segundo projeto do DevClub utilizando CSS com auxílio da ferramenta FIGMA.
